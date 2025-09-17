@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Uvais V A👋  
+# Hi, I'm Mohammed Uvais 👋  
 🎓 B.Voc Data Science & Analytics Graduate | 📊 Data Analyst & Data Scientist Enthusiast | 🤖 AI & ML Explorer  
 
 ---
@@ -6,7 +6,8 @@
 ## 👨‍💻 About Me  
 I’m an enthusiastic and detail-oriented **Data Science & Analytics graduate from Calicut University** with hands-on experience in **data analysis, machine learning, and data visualization** through academic projects and internships.  
 
-I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data into **meaningful insights** with Python, SQL, Power BI, and Tableau. I’ve also explored **deep learning, AI, and cloud basics**, and built real-world projects combining technical and business impact.  
+I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data into **meaningful insights** with Python, SQL, Power BI, and Tableau.  
+I’ve also explored **deep learning, AI, and cloud basics**, and built real-world projects combining technical and business impact.  
 
 ---
 
@@ -25,13 +26,13 @@ I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Experience  
 
 ### 📊 Data Science & Gen AI Intern – *iDatalytics, Infopark Kochi*  
 *Dec 2024 – Apr 2025*  
 - Applied ML algorithms in Jupyter Notebook using Scikit-learn.  
 - Gained exposure to **AI, deep learning, and computer vision**.  
-- Built **“GitHub Account Quality Prediction & Recommendation”** project.  
+- Built **GitHub Account Quality Prediction & Recommendation** project.  
 - Used Tableau for presenting insights.  
 
 ### 📊 Data Analytics Intern – *Quest Innovation Solutions, Kochi*  
@@ -42,7 +43,7 @@ I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data
 
 ---
 
-## 🚀 Key Projects  
+## 🚀 Projects  
 🔹 **GitHub Account Quality Prediction** – ML-based recommender web app  
 🔹 **Insurance Management Website** – Workflow optimization system  
 🔹 **Healthcare Outcomes (Mali)** – Flask ML app for medical decision-making  
@@ -57,6 +58,23 @@ I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data
 
 ---
 
+## 📊 GitHub Stats & Achievements  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammeduvais&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammeduvais&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeduvais&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammeduvais&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-uvais)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammeduvais21012004@gmail.com)  
@@ -65,4 +83,3 @@ I enjoy **cleaning, analyzing, and interpreting datasets**, and turning raw data
 ---
 
 ✨ *“Turning raw data into meaningful insights to help businesses grow.”*  
-
